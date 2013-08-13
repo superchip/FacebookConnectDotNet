@@ -1,0 +1,7 @@
+c:\users\ronsegal\documents\visual studio 2012\Projects\FacebookConnect\FacebookConnect\bin\FacebookConnect.dll
+c:\users\ronsegal\documents\visual studio 2012\Projects\FacebookConnect\FacebookConnect\bin\FacebookConnect.pdb
+c:\users\ronsegal\documents\visual studio 2012\Projects\FacebookConnect\FacebookConnect\bin\Facebook.dll
+c:\users\ronsegal\documents\visual studio 2012\Projects\FacebookConnect\FacebookConnect\bin\Facebook.xml
+c:\users\ronsegal\documents\visual studio 2012\Projects\FacebookConnect\FacebookConnect\obj\Debug\FacebookConnect.csprojResolveAssemblyReference.cache
+c:\users\ronsegal\documents\visual studio 2012\Projects\FacebookConnect\FacebookConnect\obj\Debug\FacebookConnect.dll
+c:\users\ronsegal\documents\visual studio 2012\Projects\FacebookConnect\FacebookConnect\obj\Debug\FacebookConnect.pdb
